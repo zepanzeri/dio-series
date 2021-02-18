@@ -1,0 +1,16 @@
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series.deps.json
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series.runtimeconfig.json
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series.runtimeconfig.dev.json
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series.dll
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/ref/dio-series.dll
+/home/zepanzeri/Documents/Projects/dio-series/bin/Debug/net5.0/dio-series.pdb
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.csprojAssemblyReference.cache
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.GeneratedMSBuildEditorConfig.editorconfig
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.AssemblyInfoInputs.cache
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.AssemblyInfo.cs
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.csproj.CoreCompileInputs.cache
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.dll
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/ref/dio-series.dll
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.pdb
+/home/zepanzeri/Documents/Projects/dio-series/obj/Debug/net5.0/dio-series.genruntimeconfig.cache
